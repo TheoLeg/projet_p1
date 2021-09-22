@@ -10,7 +10,7 @@ recursive function fib(n) result(f)
     endif
 end function fib
 
-program fibonacci
+program fibonacci "sghhtt"
 integer :: n
 integer :: i
 integer :: fib
